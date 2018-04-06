@@ -5,7 +5,7 @@
 * BTC address: `12cLBRPb654iEGY8E8CEVeoj6SaqpvEdWA`
 * BTC pubkey: `03380314c4f42fa854df8c471618751879f9e8f0ff5dbabda2bd77d0f96cb35676`
 
-### Server Info
+### Server
 * Location: Singapore
 * Location2: Kuala Lumpur, currently not in use as a better datacenter in Malaysia is needed for a competitive notarization rate.
 
@@ -14,7 +14,7 @@
 * BTC address: `12cnut1fX9qi3jL4H38Ww7NTGYbRRMbbRj`
 * BTC pubkey: `030216211d8e2a48bae9e5d7eb3a42ca2b7aae8770979a791f883869aea2fa6eef`
 
-### Server Info
+### Server
 * Location: Bend, Oregon
 * Location2: Kansas City, Missouri
 
@@ -23,6 +23,16 @@
 * BTC address: `1EguRKQsrfLhawq9V2JYCxek66tJQ7qmT`
 * BTC pubkey: `03f34282fa57ecc7aba8afaf66c30099b5601e98dcbfd0d8a58c86c20d8b692c64`
 
-### Server Info
+### Server
 * Location: Sydney, Australia
 * Location2: Bogotá, Colombia
+
+### General Info
+
+* Komodo Slack: `@fullmoon`
+* PGP fingerprint: `6440 B80B DB9E 58E1`
+
+I advokate unique node locations and would be willing to move location in agreement with other nn operators. The AR node was originally located in Malaysia since early testnet until March 2018. Unfortunately it was not possible anymore to achieve competitive notarization rates, therefore the node was moved to nearby Singapore until a better datacenter is found. The SH node will be moved from Sydney to Bogota pending successful tests. For NA a node in Panama is planned.
+
+Besides the node operations I have an interest in blockchain interoperability, in particular ILP. I had adopted the first prototype of an ILP connector implementation for Komodo. I have projects planned that involve interoperability of Komodo with other platforms. 
+
