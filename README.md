@@ -27,7 +27,7 @@
 * Location: Sydney, Australia
 * Location2: Bogotá, Colombia
 
-### General Info
+# General Info
 
 * Komodo Slack: `@fullmoon`
 * PGP fingerprint: `6440 B80B DB9E 58E1`
