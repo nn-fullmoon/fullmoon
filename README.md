@@ -1,4 +1,4 @@
-# fullmoon ### - notary node info
+# fullmoon - notary node info
 
 # AR:
 * KMD address: `RAtXFwGsgtsHJGuKhJBMbB8vri3SRVQYeu`
