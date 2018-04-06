@@ -27,6 +27,7 @@
 * Location: Sydney, Australia
 * Location2: Bogotá, Colombia
 
+
 # General Info
 
 * Komodo Slack: `@fullmoon`
