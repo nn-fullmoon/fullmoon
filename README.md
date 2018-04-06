@@ -7,7 +7,7 @@
 
 ### Server
 * Location: Singapore
-* Location2: Kuala Lumpur, currently not in use as a better datacenter in Malaysia is needed for a competitive notarization rate.
+* Location2: Kuala Lumpur
 
 # NA:
 * KMD address: `RAtyzPtx7yeH7jhFkD7e2dhf2p429Cn3tQ`
